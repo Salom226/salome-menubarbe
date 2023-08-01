@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'cookie';
+    src: url('../fonts/Cookie-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'kalam';
+    src: url('../fonts/Kalam-Regular.ttf');
+}  
+
+
+.page-section {
+    width: 106rem;
+    margin: auto;
+
+    background-color: white;
+    padding: 4rem;
+    height: 100%;
+    box-shadow: 0px 0 5px rgba(0, 0, 0, 0.137);
+}
